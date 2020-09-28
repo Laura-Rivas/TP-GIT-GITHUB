@@ -1,0 +1,5 @@
+GIT: es un software de control de versiones, para el mantenimiento de versiones 
+de pequeños y grandes proyectos. GIT almacena estas versiones en repositorios locales.
+GIT HUB: es una plataforma web para alojar proyectos utilizando el sistema de control 
+de versiones Git.GIT HUB proporciona una interfaz gráfica, control de acceso y varias funciones de 
+colaboración.
